@@ -1,12 +1,12 @@
-# JQuery Layout UI Editor
+# Layout UI Editor
 
 > Original Repos:   
-> - JQuery Layout UI Editor: https://github.com/a19836/layout-ui-editor/   
+> - Layout UI Editor: https://github.com/a19836/layout-ui-editor/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
 
-**JQuery Layout UI Editor** is a powerful WYSIWYG (What-You-See-Is-What-You-Get) layout builder designed to convert frontend and backend code - including **HTML**, **CSS**, **JavaScript**, and **PHP** code - into reusable, visual, draggable and configurable UI components.  
+**Layout UI Editor** is a powerful WYSIWYG (What-You-See-Is-What-You-Get) layout builder designed to convert frontend and backend code - including **HTML**, **CSS**, **JavaScript**, and **PHP** code - into reusable, visual, draggable and configurable UI components.  
 With an intuitive **drag & drop editor**, users can visually design interfaces and responsive layouts without manually writing code, while still having the ability to view, edit, or export the underlying source.   
 This library is composed of multiple widgets that allow you to draw any type of layout, but you can also **extend our widget library by creating your own components**, making the editor highly flexible and scalable.   
    
