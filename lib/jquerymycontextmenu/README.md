@@ -1,12 +1,12 @@
-# JQuery My Context Menu
+# JQuery Context Menu
 
 > Original Repos:   
-> - JQuery My Context Menu: https://github.com/a19836/jquerymycontextmenu/   
+> - JQuery Context Menu: https://github.com/a19836/jquery-context-menu/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
 
-**JQuery My Context Menu** is a lightweight JavaScript library for displaying user-defined context menus on right-click.
+**JQuery Context Menu** is a lightweight JavaScript library for displaying user-defined context menus on right-click.
 
 Requirements:
 - jquery library

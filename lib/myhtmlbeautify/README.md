@@ -1,12 +1,12 @@
-# My HTML Beautify
+# HTML Beautify
 
 > Original Repos:   
-> - My HTML Beautify: https://github.com/a19836/myhtmlbeautify/   
+> - HTML Beautify: https://github.com/a19836/html-beautify/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
 
-**My HTML Beautify** is a javascript library to beautify HTML code.   
+**HTML Beautify** is a javascript library to beautify HTML code.   
 
 If beautify.js library is present, then it beautifies Javascript and CSS code too.   
 If MyCodeBeautifier.js library is present, then it beautifies PHP code too.   
