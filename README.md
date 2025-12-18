@@ -1,7 +1,7 @@
 # JQuery Layout UI Editor
 
 > Original Repos:   
-> - JQuery Layout UI Editor: https://github.com/a19836/jquerylayoutuieditor/   
+> - JQuery Layout UI Editor: https://github.com/a19836/layout-ui-editor/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
